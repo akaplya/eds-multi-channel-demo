@@ -1,0 +1,9 @@
+mountpoints:
+  /:
+    url: https://content.da.live/akaplya/eds-multi-channel-demo/
+    type: markup
+
+folders:
+  /products/: /products/default
+  /kingsbluff/products/: /products/default
+  /arkbridge/products/: /products/default

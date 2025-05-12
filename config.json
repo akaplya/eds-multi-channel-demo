@@ -2,16 +2,16 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/Fwus6kdpvYCmeEdcCX7PZg/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/JAZkb81N6J5dfuDGZuhjyL/graphql",
       "headers": {
         "cs": {
-          "ac-channel-id": "9ced53d7-35a6-40c5-830e-8288c00985ad",
-          "ac-environment-id": "Fwus6kdpvYCmeEdcCX7PZg",
+          "ac-channel-id": "346fab38-64ba-4b77-b3dc-311d68020e9b",
+          "ac-environment-id": "JAZkb81N6J5dfuDGZuhjyL",
           "ac-price-book-id": "west_coast_inc",
           "ac-scope-locale": "en-US"
         }
       },
-      "analytics": {
+        "analytics": {
         "base-currency-code": "USD",
         "environment": "Production",
         "store-id": 1,
@@ -21,6 +21,20 @@
         "store-view-name": "Default Store View",
         "website-id": 1,
         "website-name": "Main Website"
+      }
+    },
+    "kingsbluff": {
+      "headers": {
+        "cs": {
+          "ac-channel-id": "e4b032ce-5a4a-4b58-9cbf-c2af04a2ccc9"
+        }
+      }
+    },
+    "arkbridge": {
+      "headers": {
+        "cs": {
+          "ac-channel-id": "6b195212-4dd7-4f34-a447-a05ba64fa443"
+        }
       }
     }
   }
