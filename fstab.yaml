@@ -5,6 +5,6 @@ mountpoints:
 
 folders:
   /products/: /products/default
-  /cruz_france/products/: /products/default
-  /bolt_france/products/: /products/default
-  /autosphere_france_dealer/products/: /products/default
+  /cruz-france/products/: /cruz-france/products/default
+  /bolt-france/products/: /bolt-france/products/default
+  /autosphere-france-dealer/products/: /autosphere-france-dealer/products/default

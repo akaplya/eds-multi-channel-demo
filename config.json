@@ -23,21 +23,21 @@
         "website-name": "Main Website"
       }
     },
-    "/cruz_france/": {
+    "/cruz-france/": {
       "headers": {
         "cs": {
           "ac-channel-id": "e4b032ce-5a4a-4b58-9cbf-c2af04a2ccc9"
         }
       }
     },
-    "/bolt_france/": {
+    "/bolt-france/": {
       "headers": {
         "cs": {
           "ac-channel-id": "6b195212-4dd7-4f34-a447-a05ba64fa443"
         }
       }
     },
-    "/autosphere_france_dealer/": {
+    "/autosphere-france-dealer/": {
       "headers": {
         "cs": {
           "ac-channel-id": "6b195212-4dd7-4f34-a447-a05ba64fa443"
