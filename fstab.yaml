@@ -5,5 +5,6 @@ mountpoints:
 
 folders:
   /products/: /products/default
-  /kingsbluff/products/: /products/default
-  /arkbridge/products/: /products/default
+  /cruz_france/products/: /products/default
+  /bolt_france/products/: /products/default
+  /autosphere_france_dealer/products/: /products/default
