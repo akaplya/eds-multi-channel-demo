@@ -23,14 +23,14 @@
         "website-name": "Main Website"
       }
     },
-    "kingsbluff": {
+    "/kingsbluff/": {
       "headers": {
         "cs": {
           "ac-channel-id": "e4b032ce-5a4a-4b58-9cbf-c2af04a2ccc9"
         }
       }
     },
-    "arkbridge": {
+    "/arkbridge/": {
       "headers": {
         "cs": {
           "ac-channel-id": "6b195212-4dd7-4f34-a447-a05ba64fa443"
