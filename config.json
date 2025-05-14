@@ -26,21 +26,21 @@
     "/cruz-france/": {
       "headers": {
         "cs": {
-          "ac-channel-id": "e4b032ce-5a4a-4b58-9cbf-c2af04a2ccc9"
+          "ac-channel-id": "6b2ff509-4ebd-4601-8da7-3c226d1d5fae"
         }
       }
     },
     "/bolt-france/": {
       "headers": {
         "cs": {
-          "ac-channel-id": "6b195212-4dd7-4f34-a447-a05ba64fa443"
+          "ac-channel-id": "9bf9d07f-46b0-429c-8da3-075ac7076def"
         }
       }
     },
     "/autosphere-france-dealer/": {
       "headers": {
         "cs": {
-          "ac-channel-id": "6b195212-4dd7-4f34-a447-a05ba64fa443"
+          "ac-channel-id": "2bc54ea8-8e4d-4662-bf96-24f492d9a9bf"
         }
       }
     }
