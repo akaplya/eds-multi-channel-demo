@@ -43,6 +43,13 @@
           "ac-channel-id": "2bc54ea8-8e4d-4662-bf96-24f492d9a9bf"
         }
       }
+    },
+    "/auto-distribution-languedocienne-dealer/": {
+      "headers": {
+        "cs": {
+          "ac-channel-id": "471bb6c2-d4f0-4d64-961a-5e179eee2acd"
+        }
+      }
     }
   }
 }
