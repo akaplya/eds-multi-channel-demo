@@ -59,6 +59,9 @@ header nav[aria-expanded='true'] {
 header nav p {
   margin: 0;
   line-height: 1;
+  align-items: center;
+  display: flex;
+  gap: 8px;
 }
 
 /* hamburger */
@@ -164,7 +167,7 @@ li.nav-drop img {
 }
 
 header nav .nav-brand img {
-  width: 128px;
+  width: 40px;
   height: auto;
 }
 
