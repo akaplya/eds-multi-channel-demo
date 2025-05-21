@@ -40,7 +40,8 @@
     "/autosphere-france-dealer/": {
       "headers": {
         "cs": {
-          "ac-channel-id": "2bc54ea8-8e4d-4662-bf96-24f492d9a9bf"
+          "ac-channel-id": "2bc54ea8-8e4d-4662-bf96-24f492d9a9bf",
+          "ac-price-book-id": "east_coast_inc"
         }
       }
     },
