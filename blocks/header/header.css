@@ -60,7 +60,6 @@ header nav p {
   margin: 0;
   line-height: 1;
   align-items: center;
-  display: flex;
   gap: 8px;
 }
 
